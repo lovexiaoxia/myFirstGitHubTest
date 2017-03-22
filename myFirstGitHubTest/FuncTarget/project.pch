@@ -1,0 +1,23 @@
+//
+//  project.pch
+//  FuncTarget
+//
+//  Created by 程昂 on 2017/3/8.
+//  Copyright © 2017年 程昂. All rights reserved.
+//
+
+#ifndef project_pch
+#define project_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <objc/runtime.h>
+
+#import "BLIBaseModel.h"
+
+#import "Masonry.h"
+
+
+
+#endif /* project_pch */

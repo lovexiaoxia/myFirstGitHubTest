@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+
+target 'FuncTarget' do
+
+#Uncomment this line if you're using Swift or would like to use dynamic franeworks 
+
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod ‘Masonry’
+pod ‘YYKit’
+
+
+end
